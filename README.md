@@ -18,7 +18,6 @@ The Weather Forecasting Application is a web-based project that provides users w
 
 ## Features
 - Display current weather conditions for a specified location.
-- Show a 5-day weather forecast.
 - Responsive user interface.
 - Search functionality to find weather details for different cities.
 - User-friendly design with clear and concise information.
