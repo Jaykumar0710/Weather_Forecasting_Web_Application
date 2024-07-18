@@ -1,4 +1,3 @@
-Certainly! Below is a sample README file for your Weather Forecasting Application project using HTML, CSS, Java, JSP, and Servlet.
 
 ---
 
