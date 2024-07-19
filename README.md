@@ -10,7 +10,7 @@
 - [Installation and Setup](#installation-and-setup)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ## Introduction
 The Weather Forecasting Application is a web-based project that provides users with real-time weather information for various locations. This application is built using Java, JSP, Servlets, HTML, and CSS, and it leverages weather data from a third-party API to deliver accurate and up-to-date forecasts.
